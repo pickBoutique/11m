@@ -3,3 +3,4 @@
 
 ?>
 
+"it's new day for git" 
